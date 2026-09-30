@@ -42,7 +42,6 @@ The project includes:
 * Checking missing values
 * Checking duplicate records
 * Descriptive statistics
-* Distribution analysis
 * Correlation analysis
 * Data visualization
 
