@@ -45,7 +45,7 @@ The project includes:
 * Distribution analysis
 * Correlation analysis
 * Data visualization
-* Relationship between house features and price
+
 
 ## Conclusion
 
